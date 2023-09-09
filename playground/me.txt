@@ -1,5 +1,0 @@
-{{#user}}
-Name: Pankaj Kumar
-Skills: HTML, CSS, JS, React.js, Redux, Next.js, Firebase, MongoDB
-Email: rkay1048@gmail.com
-{{/user}}
